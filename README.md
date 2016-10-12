@@ -2,4 +2,4 @@
 
 ###Authors
 
-### Leya Yacob, Adrian Flak, and Barrett Amsrud
+#### Leya Yacob, Adrian Flak, and Barrett Amsrud
